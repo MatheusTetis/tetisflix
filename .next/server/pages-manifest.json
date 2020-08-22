@@ -1,0 +1,8 @@
+{
+  "/Home": "pages/Home.js",
+  "/cadastro/Categoria": "pages/cadastro/Categoria.js",
+  "/cadastro/Video": "pages/cadastro/Video.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
